@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg07.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40323212scrum1-回報 bg07 scrum1 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323212scrum1-hui-bao-bg07-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323212scrum1-hui-bao-bg07-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;請注意: 這個 .md 檔案應該要放到 s2b/g6 目錄中, 而且用學號作為 Tags 分類讓使用者可以較容易透過 Tags 找到某一學員所提供的所有內容.&lt;/p&gt;
+&lt;p&gt;bg06 組員 40323212 已經在 cdw2 倉儲中的 master 分支建立對應的組員 40323212.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323212"></category></entry></feed>

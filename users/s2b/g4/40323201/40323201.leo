@@ -10,8 +10,8 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160310091900.1"><vh>@edit 40323201_w3_1.py</vh></v>
-<v t="leo.20160310091611.2" a="E"><vh>@path ./../../../2b_files/task0</vh>
-<v t="leo.20160310111848.1"><vh>@edit 2016_cd_2b_3.txt</vh></v>
+<v t="leo.20160310091611.2" a="E"><vh>@path ./../../../s2b_files/task0</vh>
+<v t="leo.20160310111848.1"><vh>@edit 2016_cd_s2b_3.txt</vh></v>
 <v t="leo.20160310111856.1"><vh>@edit g4.txt</vh></v>
 </v>
 </vnodes>

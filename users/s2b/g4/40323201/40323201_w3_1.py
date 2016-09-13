@@ -1,5 +1,5 @@
 result = []
-with open("./../../../2b_files/task0/2016_cd_2b_3.txt", 'r') as f:
+with open("./../../../2b_files/task0/2016_cd_s2b_3.txt", 'r') as f:
     content = f.readlines()
     for i in range(len(content)):
         for line in content[i].splitlines():
@@ -10,7 +10,7 @@ for i in range(len(result)):
     group_sorted.append(group_list)
 final_result = sorted(group_sorted)
 g.es("分組結果:", final_result)
-spring_2b =  final_result
+spring_s2b =  final_result
 
 # 第 i 組學號數列 為 spring_2a[i-1], i 從 1 到 11 共有 11 組
 # 若要先照排依組序排座位, 且空字串由下一組可用學號補上
@@ -21,7 +21,7 @@ for row in range(7):
     for column in range(11):
         # 因為各分組數列的長度並不相同, 但是最長的有 8 位組員, 因此若無法取得的資料 (因為索引超值), 就補上空字串
         try:
-            seat_by_column.append(spring_2b[column][row])
+            seat_by_column.append(spring_s2b[column][row])
         except:
             seat_by_column.append("")
 
@@ -71,18 +71,18 @@ The reverse situation occurs when the arguments are already in a list or tuple b
 https://docs.python.org/3/tutorial/controlflow.html#tut-unpacking-arguments
 '''
 
-spring_2b_final_seat = list(zip_longest(*column_list[::-1], fillvalue=""))
+spring_s2b_final_seat = list(zip_longest(*column_list[::-1], fillvalue=""))
 # 列出最後的座位
-#g.es(spring_2b_final_seat)
+#g.es(spring_s2b_final_seat)
 
 # 最後轉成 html table 標註格式
 
 g.es("<table>")
-for row in range(len(spring_2b_final_seat)):
+for row in range(len(spring_s2b_final_seat)):
     g.es("<tr>")
     # 因為每一 row 有 9 個位子
     for i in range(9):
-        g.es("<td>", spring_2b_final_seat[row][i], "</td>")
+        g.es("<td>", spring_s2b_final_seat[row][i], "</td>")
     g.es("</tr>")
 g.es("</table>")
 

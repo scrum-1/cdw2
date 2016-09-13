@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg1.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40123126scrum1-回報 bg1 40123126 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123126scrum1-hui-bao-bg1-40123126-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123126scrum1-hui-bao-bg1-40123126-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;請注意: 這個 .md 檔案應該要放到 s2b/g1目錄中, 而且用學號作為 Tags 分類讓使用者可以較容易透過 Tags 找到某一學員所提供的所有內容.&lt;/p&gt;
+&lt;p&gt;bg1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 g1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123126"></category></entry><entry><title>40123134scrum1-回報 g1 40123134初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123134scrum1-hui-bao-g1-40123134chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123134scrum1-hui-bao-g1-40123134chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;請注意: 這個 .md 檔案應該要放到 s2b/g1目錄中, 而且用學號作為 Tags 分類讓使用者可以較容易透過 Tags 找到某一學員所提供的所有內容.&lt;/p&gt;
+&lt;p&gt;bg1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 g1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為:&lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123134_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123134_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123134"></category></entry><entry><title>40123156-回報個人繪圖連結, 協同繪圖連結, 自評</title><link href="http://2015fallhw.github.io/cdw2/post/40123156-hui-bao-ge-ren-hui-tu-lian-jie-xie-tong-hui-tu-lian-jie-zi-ping.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123156-hui-bao-ge-ren-hui-tu-lian-jie-xie-tong-hui-tu-lian-jie-zi-ping.html</id><summary type="html">&lt;p&gt;Author: 40123156&lt;/p&gt;
+
+
+&lt;p&gt;個人繪圖連結 : &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123156_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123156_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;個人繪圖為了能夠放入協同繪圖, 因此連結內所顯示的須為程式碼&lt;/p&gt;
+&lt;p&gt;協同繪圖連結 : &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;協同繪圖中, 我所負責的為紫色鏈條&lt;/p&gt;
+&lt;p&gt;下圖是 bg1 的 ABCD 鏈條分配 : &lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg1/ABCD.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;自評: 80 分&lt;/p&gt;</summary><category term="40123156"></category></entry><entry><title>40123133-回報 bg1 40123133 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123133-hui-bao-bg1-40123133-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123133-hui-bao-bg1-40123133-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;Author: kmol
+bg1 組員40123133 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123133"></category></entry><entry><title>40123156-回報 bg1 40123156 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123156-hui-bao-bg1-40123156-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123156-hui-bao-bg1-40123156-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;Author: 40123156
+bg1 40123156 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="task1"></category><category term="40123156"></category></entry><entry><title>40123133-回報個人繪圖連結, 協同繪圖連結, 自評</title><link href="http://2015fallhw.github.io/cdw2/post/40123133-hui-bao-ge-ren-hui-tu-lian-jie-xie-tong-hui-tu-lian-jie-zi-ping.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123133-hui-bao-ge-ren-hui-tu-lian-jie-xie-tong-hui-tu-lian-jie-zi-ping.html</id><summary type="html">&lt;p&gt;Author: 40123133
+bg1 組員40123133 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;個人OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123133_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/scrum4012313_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;團體OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;心得：
+透過這次作業中可以了解到協同重要性，每一個人負責一些資料，再經由協同來完成，這樣可以省去很多時間，但是在事前溝通要先做好，不然做出來的東西會很亂。&lt;/p&gt;
+&lt;p&gt;自評：80分&lt;/p&gt;</summary><category term="40123133"></category></entry><entry><title>40123129-回報 bg1 40123129 初步繪圖主機與連結，期中自評。</title><link href="http://2015fallhw.github.io/cdw2/post/40123129-hui-bao-bg1-40123129-chu-bu-hui-tu-zhu-ji-yu-lian-jie-qi-zhong-zi-ping.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123129-hui-bao-bg1-40123129-chu-bu-hui-tu-zhu-ji-yu-lian-jie-qi-zhong-zi-ping.html</id><summary type="html">&lt;p&gt;Author: 40123129
+bg1 組員40123129 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;(其中橘色鍊條為所分配到的任務)
+scrum40123129的畫布 : &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/scrum_29"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/scrum_29&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;bg1所偕同的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/bg1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自評:80分&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123129"></category></entry><entry><title>40123131-回報 bg1 40123131 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123131-hui-bao-bg1-40123131-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123131-hui-bao-bg1-40123131-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;Author: kmol
+bg1 組員40123131 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123131"></category></entry><entry><title>40123126-回報 bg1 40123126 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123126-hui-bao-bg1-40123126-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123126-hui-bao-bg1-40123126-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;Author: kmol
+bg1 組員40123126 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123126"></category></entry><entry><title>40123144-回報 bg1 40123144 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123144-hui-bao-bg1-40123144-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123144-hui-bao-bg1-40123144-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;Author: kmol
+bg1 40123144 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg1-40123156.rhcloud.com/bg1/task2"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/task2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123144"></category></entry></feed>

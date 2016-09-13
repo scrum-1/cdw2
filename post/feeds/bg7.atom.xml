@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg7.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40323216 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323216-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323216</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323216-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323216 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別繪圖 : &lt;a href="http://python-40323216.rhcloud.com/bg7/scrum2_abcd"&gt;bg7畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖 : &lt;a href="http://python-40323216.rhcloud.com/bg7/scrum2_16_ABCD"&gt;ABCD&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg7/16_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;心得 :&lt;/h3&gt;
+&lt;h4&gt;前幾次因為很多人在使用同一個GITHUB 常常把它弄壞了，很多次都因為整個壞掉而停擺，應該要熟悉之後再用，不然會拖到大家的時間。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;由於很多組員失蹤，所以只好一人畫一個字母或少數零件來補齊，一開始在近端還好，到遠端上面就開始困難了，如果組長沒有掌握，整組會毀掉。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;在遠端需要使用openshift以及組員要允許組長抓取上面的東西才可以完成。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的東西真的要整組動起來，否則一個人會非常辛苦。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次報告因為我的行動很慢也常出錯所以給自己60分&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task3"></category><category term="40323216"></category></entry></feed>

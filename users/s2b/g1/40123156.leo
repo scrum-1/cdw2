@@ -10,16 +10,20 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160314012110.1" a="E"><vh>@path 40123156</vh>
+<v t="leo.20160402221232.1" a="E"><vh>@path ../../../</vh>
+<v t="leo.20160402221327.1"><vh>@edit myflaskapp.py</vh></v>
+</v>
+<v t="leo.20160402222435.1" a="E"><vh>@path</vh>
+<v t="leo.20160402214903.1"><vh>@edit scrum40123156_task1.py</vh></v>
+</v>
+<v t="leo.20160314012110.1"><vh>@path 40123156</vh>
 <v t="00123.20160310172926.1698"><vh>@edit 40123156.py</vh></v>
 <v t="leo.20160314012112.1"><vh>@edit 路徑太深的檔案會clone不到.txt</vh></v>
 </v>
-<v t="leo.20160310101514.2" a="E"><vh>@path ./../../</vh>
-<v t="leo.20160310101546.1"><vh>@edit index.html</vh></v>
-</v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160310101514.2"></t>
 <t tx="leo.20160314012110.1"></t>
+<t tx="leo.20160402221232.1"></t>
+<t tx="leo.20160402222435.1"></t>
 </tnodes>
 </leo_file>

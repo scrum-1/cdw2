@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/ag100.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>scrum2-回報 ag100 scrum2 與 scrum1 繪圖結合</title><link href="http://2015fallhw.github.io/cdw2/post/scrum2-hui-bao-ag100-scrum2-yu-scrum1-hui-tu-jie-he.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/scrum2-hui-bao-ag100-scrum2-yu-scrum1-hui-tu-jie-he.html</id><summary type="html">&lt;p&gt;ag100 組員 scrum2 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum2.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;已經將 scrum2 繪圖的部份納入, 並且塗上淡綠色: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum2_task1.py 中的 scrum2_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum2-再次利用 pull request 要求合併 gh-pages 分支中的改版資料</title><link href="http://2015fallhw.github.io/cdw2/post/scrum2-zai-ci-li-yong-pull-request-yao-qiu-he-bing-gh-pages-fen-zhi-zhong-de-gai-ban-zi-liao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/scrum2-zai-ci-li-yong-pull-request-yao-qiu-he-bing-gh-pages-fen-zhi-zhong-de-gai-ban-zi-liao.html</id><summary type="html">&lt;p&gt;假如各組員分別在各自同時段 fork 的版本持續工作, 則組長必須擔負以手動解決合併的工作&lt;/p&gt;
+
+
+&lt;p&gt;各組員在建立 pull request 時, 一定要確定 base fork 與 head fork 的對應分支, master  對 master, gh-pages 對 
+gh-pages, 而且基本的請求是要從 head fork 將版本要求合併到 base fork 中.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum2-希望採 pull request 方式合併 gh-pages 網頁資料</title><link href="http://2015fallhw.github.io/cdw2/post/scrum2-xi-wang-cai-pull-request-fang-shi-he-bing-gh-pages-wang-ye-zi-liao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/scrum2-xi-wang-cai-pull-request-fang-shi-he-bing-gh-pages-wang-ye-zi-liao.html</id><summary type="html">&lt;p&gt;目前 scrum2 只能透過 pull request 將新版本資料合併到全班的 gh-pages 網頁, 這一篇就是希望測試流程中的實際操作步驟&lt;/p&gt;
+
+
+&lt;p&gt;以及組員與組長必須在流程中操作的步驟.&lt;/p&gt;
+&lt;p&gt;因為 gh-pages 中的 Pelican 靜態網頁可能無法直接在線上合併, 但是各用戶只要把握以 content 目錄中的 md 檔案為主, 而其他 post 目錄下的各 html 與頁面檔案, 都是從 .md 檔案與設定檔案, 透過 pelican 指令產生, 因此解決衝突的重點在 content 目錄中的 .md 檔案而非 post 目錄中的檔案.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum1-Onshape 鏈條組件</title><link href="http://2015fallhw.github.io/cdw2/post/scrum1-onshape-lian-tiao-zu-jian.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/scrum1-onshape-lian-tiao-zu-jian.html</id><summary type="html">&lt;p&gt;Scrum1 已經完成 Onshape 基本鏈條組件的繪圖.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/29d1a262b055745e59be7c09/w/1f25948ad73282e2440ffdcf"&gt;bicycle chain Onshape Document&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/29d1a262b055745e59be7c09/w/1f25948ad73282e2440ffdcf/e/60bc24e9ffd5d1ef3544c1a9"&gt;Onshpae 鏈條組立件&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://chiamingyen.github.io/kmolab_data/files/onshape_bike_chain_assembly.png" width="600" /&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="onshape"></category></entry></feed>

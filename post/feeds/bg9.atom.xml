@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg9.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40323250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
+
+
+
+&lt;p&gt;協同繪圖&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9藍圖&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/scrum1_50_ABCD"&gt;scrum1_50_ABCD&lt;/a&gt;
+&lt;/br&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;h2&gt;Gh-pages : &lt;/h2&gt;
+&lt;h3&gt;在 gh-pages 裡的user/組別 目錄下 新增個人leo檔案，並將.md檔路徑放在content，至於紅色框框為檔案名稱，很多人都使用日期導致檔案一直覆寫。&lt;/h3&gt;&lt;/p&gt;
+&lt;h3&gt;和上學期個人md檔相同作法，編輯個人學期心得，並顯示於&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/cdw2/post/"&gt;cdw2首頁&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/1.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/2.png"&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;&lt;/p&gt;
+&lt;h2&gt;Master : &lt;/h2&gt;
+
+&lt;h3&gt;用於儲存繪圖程式檔案，並將檔案傳上openshift，能夠在遠端直接顯示圖檔，並能夠導入組員零件，已達成協同要求。
+近端要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示個人圖檔。&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;繪圖須註冊藍圖，包括組別與個人，註冊位置在cdw2目錄下之simpleflask.leo&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/3.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/4.png"&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h2&gt;繪圖 : &lt;/h2&gt;
+&lt;h3&gt;此部分依照你的需求，若是使用你的藍圖為主畫布，則使用此串原始碼
+若為被導入之零件則刪除(尾端/script也要記得刪)&lt;/h3&gt;
+&lt;img src="./../files/bg9/5.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;個人檔案  可以使用多個畫布，但導入圖檔畫布要相同&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../files/bg9/6.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/8.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;會依照導入順序顯示圖形&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/9.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;若傳上openshift後，幾天沒有開啟會導致頁面暫時關閉，只需按下重啟即可&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/10.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/ABCD.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;協同繪圖(可能)使用Allow-Contorl-Allow-Origin功能&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/11.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;/br&gt;
+&lt;a href="https://github.com/40323250/STL_png/blob/gh-pages/stl/ABCD.stl"&gt;OnshapeABCD組立stl檔案&lt;/a&gt;
+&lt;/br&gt;
+&lt;h3&gt;A與B的連接部分會有三層，所以有長短軸之分，且一開始就要決定哪一部分為最外層，否則最後接點會重疊&lt;/h3&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323250/STL_png/gh-pages/stl/ABCD.stl"&gt;&lt;/script&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;h3&gt;04/26 02:10 更新&lt;/h3&gt;
+&lt;/br&gt;
+&lt;h3&gt;協同需要另外設定允許權限&lt;/h3&gt;
+&lt;img src="./../files/bg9/code.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;完成之協同組合圖&lt;/h3&gt;
+&lt;img src="./../files/bg9/bg9.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323250 - 重編報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #82FF82;"&gt;取得檔案：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;先打開班級倉儲，若為非協同者點及Fork按鈕
+&lt;img src="./../files/bg9/40323250/fork_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+之後會跳到複製的cdw2版本，如下圖 :
+&lt;img src="./../files/bg9/40323250/fork_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt; &lt;br /&gt;
+之後打開cmd，輸入git clone https網址，載下自己的倉儲，然後打開資料夾，找到自己相對應的組別就可以開始繪圖。
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF8C00;"&gt;繪圖介紹：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+1.先定義自己的檔案內容，url _prefix 為前綴、scrum1_task40323250為藍圖，make_response則是該組員零件需要被導到別的圖時需要的東西。(scrum1為老師設定的範例，當初不知道，所以都拿過來用了，發現的時候已經來不及了)
+&lt;img src="./../files/bg9/40323250/blueprint.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+2.要開啟在cdw2目錄下的myfalskapp.py檔，導入(import)自己的檔案，並註冊(register)藍圖。(檔案為.py檔名稱，註冊名稱同上圖之藍圖名稱)
+&lt;/br&gt;
+&lt;img src="./../files/bg9/40323250/myflaskapp.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;img src="./../files/bg9/40323250/register.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+3.若上方藍圖設定為scrum1_task40323250，那紫色框框內也要相同，scrum1_50_ABCD所影響的是網址，之後會舉例。
+紅色框框則決定這個圖是否被導入別人的圖。
+&lt;/br&gt;
+如果紅色框線內的內容存在，就能透過wsgi.py讓圖形顯示在 localhost:5000/bg9(前綴)/scrum1_50_ABCD
+&lt;/br&gt;
+如果沒有，在網頁上則顯示成文字。
+&lt;img src="./../files/bg9/40323250/print_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FFFF00;"&gt;Example 1 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;img src="./../files/bg9/40323250/word.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FFFF00;"&gt;Example 2 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;img src="./../files/bg9/40323250/paint_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 18pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF00FF;"&gt;繪圖方式：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+1.下圖為主要圖形，決定顯示的形狀，透過solvespace輸出2d-section存成.svg檔之結果。
+&lt;img src="./../files/bg9/40323250/shape.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+2. translate為平移圖形、rotate為旋轉。
+&lt;/br&gt;
+cmbr.translate(0, 20)是直接對主要圖形進行平移，之後的基準也會以此為主
+basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，並能對此進行移動放置，其基準會以主要圖形為出發點。
+&lt;p&gt;&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #2F4F4F;"&gt;旋轉：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+因為旋轉是以(0, 0)為旋轉中心，所以如果主要圖形不是在(0, 0)，就會整個跑掉，處理方式是將複製的零件先平移回(0, 0)後，進行旋轉再移到所需要的位置進行放置。
+&lt;/br&gt;
+&lt;img src="./../files/bg9/40323250/position.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF8C00;"&gt;輸出與導入：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+學會繪圖之後，再來就是將自己的檔案導入組別的畫布裡了。
+&lt;/br&gt;
+&lt;/br&gt;
+如果要把自己的圖導入組別的畫布，除了要把圖形變成純文字以及make_response之外，還要在尾端加上幾行語法，如下圖，框框中的網址要放上導入者的openshift網址(主要的圖檔在他openshift上)
+&lt;img src="./../files/bg9/40323250/make_response.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+那導入者要如何導入組員圖形呢?
+&lt;/br&gt;
+&lt;/br&gt;
+因為使用了make_response功能，所以要將導入者的程式切成三份，利用拼拼圖的方式完成導入。
+&lt;/br&gt;
+這是導入者的第一段程式(用於導入畫布等功能)
+&lt;img src="./../files/bg9/40323250/part1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是導入者的第二段程式(用於尾端，關閉功能)
+&lt;img src="./../files/bg9/40323250/part2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是被導入者的程式
+&lt;img src="./../files/bg9/40323250/part3.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是導入者的組合程式，把上面三者結合，而組合圖網址就會是這個
+&lt;img src="./../files/bg9/40323250/part4.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF0000;"&gt;將檔案上傳Openshift&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+既然圖形都畫完了，再來就是將檔案上傳至openshift囉~
+&lt;/br&gt;
+&lt;/br&gt;
+首先，先註冊openshift帳號(這個網站的帳號也有大小寫之分)，登入之後到Applications建立一個Python3.3的程式
+&lt;img src="./../files/bg9/40323250/openshift.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+利用puttygen.exe產生一把金鑰並命名為id_rsa，存放在home底下的.ssh資料夾中，openshift也要填入鑰匙(.ssh資料夾須以cmd建立，mkdir .ssh)
+&lt;/br&gt;
+之後即可clone網頁檔案，在近端修改資料後上傳自己本身的檔案後，推回openshift，就可以直接透過網頁顯示圖形，用法同wsgi.py。
+&lt;/br&gt;
+檔案每個組員都要推，每個人的openshift才能產生各個要導入的圖檔。
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF0000;"&gt;Pull Request&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+檔案都編輯完之後，一樣要推回自己Fork的倉儲，並透過Pull Request，經過協同者認可之後檔案就可以到老師的倉儲上了
+&lt;img src="./../files/bg9/40323250/pullrequest_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+如果檔案沒問題，就選擇相對應之倉儲傳送(master到master)
+&lt;img src="./../files/bg9/40323250/pullrequest_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+沒有衝突的話，commit之後，等待認可就可以了。
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #82FF82;"&gt;Gh-Pages的報告網頁&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+既然圖都畫好了，就可以來做期中報告了。
+&lt;/br&gt;
+&lt;/br&gt;
+先將資料夾切換至gh-pages，找到自己組別的資料夾後新建leo檔。
+&lt;/br&gt;
+檔案標頭如下(隨個人需要做修改)
+&lt;/br&gt;
+&lt;img src="./../files/bg9/40323250/gh.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #006400;"&gt;再往下就是內文，就是個人的報告囉，要如何呈現就看自己吸收多少吧!&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+完成之後，點選左端local pelican節點，按上方local-pelican按鈕，轉出近端html檔案，即可在post內檢查，沒問題再指向gh-pages pelican並按下gh-pages-pelican後，透過Pull Request就可以推回去囉。
+&lt;/br&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FFA500;"&gt;註記&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1.轉檔時，如果Tittle有重複，在post內的檔案會錯誤，導致轉檔失敗。&lt;/p&gt;
+&lt;p&gt;2.如果檔案名稱有變更，也要利用cmd刪除，否則也會導致錯誤。&lt;/p&gt;
+&lt;p&gt;3.如果將post檔案全數刪除(檔案錯誤)，再利用其中一個md檔進行轉檔，post的檔案會全部重建。&lt;/p&gt;
+&lt;p&gt;4.wsgi.py 啟動之後，要利用(ctrl) + (pause break)才能關閉，myflaskapp.py內容錯誤也會導致關閉。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF4500;"&gt;以上花了我3個小時，請細心參閱&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: ##82FF82;"&gt;心得 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;協同，顧名思義就是大家一起做，那如果遇到不會的同學，就盡量幫助他們學習，所以我就打了這些，網址我貼在FB了，想不想學就是看個人了。&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;自己的分數自己救，60分的要求應該也沒有很高才對&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323230 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323230-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323230</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323230-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323230 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖 : &lt;a href="http://2016spring-40323230.rhcloud.com/bg9/scrum5_30_2"&gt;scrum5_30_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
+&lt;img src="./../files/bg9/bg9.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/30_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;心得 :&lt;/h3&gt;
+&lt;h4&gt;這次作業依靠Github和Onshape的協同功能，完成在雲端下指令繪製2D和3D圖形的任務。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;剛開始雖然有些不清楚，但是在研究和比較彼此系統的差異後能夠快速了解自己該做些甚麼、如何分擔自己組內的工作，較大家各別工作時更有效率，而非一頭霧水，拖累其他人的進度。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;而這次在多重確認機制下，修改檔案犯的錯也能先在自己的倉儲察覺到，預先提防覆蓋其他人的成品，雖然這個機制現階段仍有些不周，但是對於組員之間的配合以及防範嚴重的錯誤上還是有不錯的成效。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;做作業時，由於對指令不太熟悉，只能去研究各個參數的作用，或是觀察其他人修改時造成的效果。由於自己不太習慣用筆記，所以親身嘗試、模仿和自行找一些資料學習效果較顯著，只要不要在公共倉儲造成失誤，引來其他組員的麻煩就好。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum5"></category><category term="task5"></category><category term="40323230"></category></entry><entry><title>40323233 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323233</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別畫布 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人畫布 : &lt;a href="http://2016spring-w2651363.rhcloud.com/bg9/scrum6_33_2"&gt;scrum6_33_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
+&lt;img src="./../files/bg9/bg9.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/33_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的作業比較複雜，需要與組員一同去完成繪製鍊條，老師這次出的作業是為了讓我們理解如何更容易和別人協同，也可以透過這次機會，學會該如何在團隊裡分配任務，並和組員溝通與表達&lt;/h4&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;Master主要是用於儲存繪圖程式檔案，
+將檔案傳上openshift，就可以在遠端顯示圖檔，並能夠導入組員的零件。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;近端必須要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323214 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323214</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;b9畫布&lt;/a&gt;
+&lt;/br&gt;
+個人繪圖 : &lt;a href="http://2016spring-40323214.rhcloud.com/bg9/scrum3_14_2"&gt;scrum3_14_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
+&lt;img src="./../files/bg9/14_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/14_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h3&gt;心得 :&lt;/h3&gt;
+&lt;h4&gt;對於這次學習的內容，有很多複雜的地方需要瞭解。而第一件事就是，需要先瞭解如何在leo編輯中，更改我們零件的位置，並從近端中打開python wsgi.py測試。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;經過測試之後，還必須要與組員配合，共同完成一樣東西，本次目的就是完成字母，也就是說架構上必須先與組員說好，在座配合時才不會有尺寸上的問題。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;最後透過openshift網站，可以將自己的零件放到遠端，並與組員在遠端中配合，利用google的額外工具，可以拉到其他組員所放上去的零件位置，就可以做出配合後的樣子。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;而還可以利用onshape與組員一起組裝立體的英文字母。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;此次報告給自己75分&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323214"></category></entry></feed>

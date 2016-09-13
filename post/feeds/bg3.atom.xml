@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg3.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40123250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40123250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40123250</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123250-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+
+
+&lt;p&gt;自評分數:75&lt;/p&gt;
+&lt;h2&gt;md檔:fork cdw2並且git clone下來切換分支到 gh-pages,在content目錄下新增組別資料夾
+
+&lt;img src="./../files/bg3/40123250-1.png"&gt;
+
+在cdw2=&gt;users=&gt;s2b=&gt;bg3下新增個人的leo檔,在裡面新增md檔,內容打在裡面
+
+&lt;img src="./../files/bg3/40123250-2.png"&gt;
+
+&lt;h2&gt;繪ABCD:需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案如圖所示
+
+&lt;img src="./../files/bg3/40123250-3.png"&gt;
+
+&lt;img src="./../files/bg3/40123250-4.png"&gt;
+
+繪圖程式採用老師給的scrum1及scrum3,scrum2,scrum1放在組別leo裡作為統組所有組員
+
+scrum3及scrum2的內容所用
+
+&lt;img src="./../files/bg3/40123250-5.png"&gt;
+
+而每位組員的scrum2則繪製ABCD各部位所用
+
+&lt;img src="./../files/bg3/40123250-6.png"&gt;
+
+上述完成後須先python wsgi.py在近端測試可否執行
+
+&lt;a href="http://cdw2-cadp13ag35.rhcloud.com/g3/scrum1_task40123250"&gt;bg3-openshift&lt;/a&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123250"></category></entry><entry><title>40123242-回報 bg3 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123242-hui-bao-bg3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40123242</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123242-hui-bao-bg3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg3 組員 40123242 已經在 cdw2 倉儲中的 master 分支建立對應的組員 完成繪圖ABCD字母&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結: &lt;a href=""&gt;bg3藍圖&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;個人畫布 : &lt;a href=""&gt;scrum1_40123242_ABCD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前完成ABCD字母，都以非常耗時方式繪圖，旋轉鍊子零件為複雜，與組員的座標定位也要精確，否則會導致圖形組合不一致&lt;/p&gt;
+&lt;p&gt;2D繪圖組裝零件要注意自己圖形的起始位置，以複製圖形的旋轉中心，能夠掌握這兩點就能減少繪圖的出錯率。&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123242"></category></entry><entry><title>40123239 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40123239-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40123239</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123239-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+
+
+&lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;h2&gt;md檔:fork cdw2並git clone和切換分支到 gh-pages,在content下新增組別資料夾
+
+在cdw2--&gt;users--&gt;s2b--&gt;bg2下新增leo檔,在裡面新增md檔,內容打在裡面
+
+
+&lt;h2&gt;畫出ABCD:需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案
+
+
+繪圖程式使用老師說的scrum1及scrum2,scrum1放在組別leo裡作為統組所有組員</summary><category term="scrum1"></category><category term="task1"></category><category term="40123239"></category></entry><entry><title>40123242 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40123242-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40123242</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123242-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+&lt;p&gt;自評成績:75
+&lt;/p&gt;
+&lt;h2&gt;Gh-pages : &lt;/h2&gt;
+
+&lt;p&gt;在 gh-pages 裡的user/組別 目錄下 新增個人leo檔案，並將.md檔路徑放在content，至於紅色框框為檔案名稱，很多人都使用日期導致檔案一直覆寫。
+&lt;img src="./../files/bg3/40123242-1.png"&gt;
+在cdw2=&amp;gt;users=&amp;gt;s2b=&amp;gt;g3下新增個人的leo檔,在裡面新增md檔,內容打在裡面&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg3/40123242-2.png"&gt;&lt;/p&gt;
+&lt;p&gt;和上學期個人md檔相同作法，編輯個人學期心得，並顯示於
+&lt;a href="http://2015fallhw.github.io/cdw2/post/"&gt;cdw2首頁&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;Master : &lt;/h2&gt;
+
+&lt;p&gt;用於儲存繪圖程式檔案，並將檔案傳上openshift，能夠在遠端直接顯示圖檔，並能夠導入組員零件，已達成協同要求。
+近端要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost:5000顯示個人圖檔。
+&lt;br&gt;
+繪圖須註冊藍圖，包括組別與個人，註冊位置在cdw2目錄下之simpleflask.leo&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg3/40123242-3.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg3/40123242-4.png"&gt;
+繪圖 : 
+此部分依照你的需求，若是使用你的藍圖為主畫布，則使用此串原始碼
+若為被導入之零件則刪除(尾端/script也要記得刪)&lt;/p&gt;
+&lt;p&gt;個人檔案  可以使用多個畫布，但導入圖檔畫布要相同
+會依照導入順序顯示圖形&lt;/p&gt;
+&lt;p&gt;若傳上openshift後，幾天沒有開啟會導致頁面暫時關閉，只需按下重啟即可&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40123242"></category></entry></feed>

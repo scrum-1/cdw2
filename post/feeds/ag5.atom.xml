@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/ag5.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40323116 期中</title><link href="http://2015fallhw.github.io/cdw2/post/40323116-qi-zhong.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323116</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323116-qi-zhong.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;p&gt;期中報告內容:   &lt;/p&gt;
+&lt;p&gt;前言:
+利用2D繪圖程式繪製出4個A、BACD及ABCD&lt;/p&gt;
+&lt;p&gt;http://40323116-256423.rhcloud.com/ag5_40323116/task1_16
+http://40323116-256423.rhcloud.com/ag5_40323116/task1b
+http://40323116-256423.rhcloud.com/ag5_40323116/task1c&lt;/p&gt;
+&lt;p&gt;心得
+這次挺難做的 要知道要怎麼修改參數才能把字母拼出來&lt;/p&gt;</summary><category term="40323116"></category><category term="cdw11"></category></entry><entry><title>40323116-回報 ag5 40323116 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323116-hui-bao-ag5-40323116-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323116</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323116-hui-bao-ag5-40323116-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+&lt;p&gt;期中報告內容:   &lt;/p&gt;
+&lt;p&gt;前言:
+利用2D繪圖程式繪製出4個A、BACD及ABCD&lt;/p&gt;
+&lt;p&gt;http://40323116-256423.rhcloud.com/ag5_40323116/task1_16
+http://40323116-256423.rhcloud.com/ag5_40323116/task1b
+http://40323116-256423.rhcloud.com/ag5_40323116/task1c&lt;/p&gt;
+&lt;p&gt;心得
+這次挺難做的 要知道要怎麼修改參數才能把字母拼出來&lt;/p&gt;</summary><category term="40323116"></category><category term="task1"></category></entry><entry><title>40123145-回報 ag5 40123145 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123145-hui-bao-ag5-40123145-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40123145</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123145-hui-bao-ag5-40123145-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="40123145"></category><category term="task1"></category></entry><entry><title>40323113-回報 ag5 40323113 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323113-hui-bao-ag5-40323113-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323113</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323113-hui-bao-ag5-40323113-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="40323113"></category><category term="task1"></category></entry></feed>

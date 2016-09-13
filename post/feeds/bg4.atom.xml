@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg4.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40123128-回報 bg4 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40123128-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40123128-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg4 組員 40123128 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1"&gt;http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum6_task1.py 中的 scrum6_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum6"></category><category term="task1"></category><category term="40123128"></category></entry><entry><title>40323208-回報 bg4 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323208-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323208-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg4 組員 40323208 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1"&gt;http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum5_task1.py 中的 scrum5_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum5"></category><category term="task1"></category><category term="40323208"></category></entry><entry><title>40323205-回報 bg4 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323205-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323205-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg4 組員 40323205 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1"&gt;http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum4_task1.py 中的 scrum4_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum4"></category><category term="task1"></category><category term="40323205"></category></entry><entry><title>40323202-回報 bg4 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323202-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323202-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg4 組員 40323202 已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1"&gt;http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum2_task1.py 中的 scrum2_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category><category term="40323202"></category></entry><entry><title>40323201-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323201-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323201</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323201-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;&lt;span style="font-size:20px;"&gt;40323201-期中報告&lt;/span&gt;
+
+&lt;br&gt;
+&lt;span style="font-size:18px;"&gt;1. 協同繪圖: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/scrum1_task1" style="color:blue;"&gt; bg4藍圖 &lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img
+src="https://lh3.googleusercontent.com/1TFAuSJABdP1eesI1XkSroR3jzmL0PB5en-5QSC8Qa7MKm0pBc4Bl4Kvkz-3T3MbRFF4d-fTh034KkVBxI0yAb1S9z1LmFVIkNqhNQHp32BnpyABrFlg6qZia3cRrOv0BJBlSRy-d4H1b2hW-UVLPiFLOQ8KE4lbesEBb1wrmeYSlVejtDrgIIuCS6lq8kXIB-a39rZ0uzc29_59PFRmuezQUMxdeO0sUfrI2pJQiwQCV9jdc4YaswRV6VMJ9bJWaqGCr1GDVdAvP4BaoJDPXN18WgFMVgHHbQro9TT8uSSjgyvELIA_1lPN5v45-IuHeV6ky9kakl5vGGsEEaL0r057YXOq4QqLiwiMKQ8dv6kIhSn06AO5MMxh17LSfGC-fvNy_RIf7_UtUqlrKjx-zXdibHPHHYh4qOkcvh5_L1jSZx-oy6YmJczBUW_b0UHHctTic0ssZXyI7IHNAC_gGgsFoSUtQxvn---NzG4FWINB28tWMvYl-T5JEqc9I-oONm-pfI0Cr5SmQHsLOjJrMWNfpoLAupMBeMYLS6ludViTXYmZ0_fzwsb8biEUxVbcMD39=w638-h598-no"width="400"height="300"&gt;
+&lt;br&gt;
+&lt;span style="font-size:18px;"&gt;2. 個人繪圖:&lt;a href="http://bg4scrum1-40323201.rhcloud.com/"style="color:blue;"&gt;個人藍圖 A &lt;/font&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img
+src="https://lh3.googleusercontent.com/ZCuvH0G0ouW-_pFhhVbwFu0_tl1Gz3iWbesJ8c6_BwfnGChpKNA5f57lbjDraMrOQ3-MUdK9561QcYq3K9jwwZ-NU7PsFRNvBHM3wXHiqdSrEYRmICmf8enPF_CCouFS6Sj9AO7nd37hVVhfQYyVRtUzwqRI5-KBkmC86wjLk2cyUx3K9eL8JRvbs-W34J3DCwgao7GYfKWIe8xWtAkQyo-FrAbVH5Eo1Gs_2WEGC5JWNdcRjTvsHU7VzcFW4rrk2Jqss0S24H7neBDCr3c7a7HbZFI38ELwPJxdxcKB2ye4CWGVC1raMdLpKW29LoC5rpaEm1DOHoV0y4uC4wLDXGSA_bUT5FcMm25YT-6QPXW3e8uwjvuC1HcX21aXllhnWuVIwJyB0xxs8AsDAL-R_SynBuhI3uzjgI1KlkF5DsuNk4rC8en351dMiMLPwgxQQaThhVka5BsWxkLLqz9jKuXTTQvRsqtEo3t6ZG-bdRCs7PttUbJDLYtR2P4I3TbiFpGRYIQUsHrumOSMe3q31GNazqId1JqW2xWd1xEuANfLcS3exc0vsaj2fe9dpxdPyRrf=w561-h470-no"width="400"height="300"&gt;
+&lt;br&gt;
+&lt;span style="font-size:18px;"&gt;3.Onshape繪製鏈條:&lt;a href="https://cad.onshape.com/documents/b8e75d0261b9d2f91ff7fbe8/w/3583de3e0792c9793f320027/e/f5ac724a461a16bb1370e750"style="color:blue;"&gt;A &lt;/font&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img
+src="https://lh3.googleusercontent.com/e6HaKaPUEGKIdBNS22Ij6_1yfUvUFNFZSZBpTGF5BUcBM4QQn6g66-cIc5LCTHYrfpKB5mo0N_gf_sJbfh_qUCVrpWr3_jf1HjDsTwmG8D-l12TBk_7eB0tGMhOIWMpr2IMSg2M9V0Gm3ho3FpGGfAptRap42MNUQvLXhENwb55n7IvDipMe-_Y5kldXB2zYoCAkiiasjG3ud3HuK592RQwqjvxG6quz31s_btT14iIk4Q6oGqw4g98NZaGWJHz6WO2mEgHi2xAaQF7A1hVtD2tttnN4dhR3St_QKdJOCahNqann5lPwd-fMlMoOjdQrpLv_L1JKqTzJkH1eSogxt3YZWndxguPJ2KLNdKt0IiezBoaMHa_S-Kyz-ucRsPlfUU5tdkOFdhSh9699R72e7EBxpH9rcQxloe_5qSOHQi43BjyPlTJ5NFn9IQGMY6_sUGt8tD7xo63uzL8sjf1UDI91x0JF4J-_XFRQb6Hc36PRYe1bTQ9x2QWMso0opyEJj7CrHuC8TkigFNaFxq8iFtBN1XbPv8mJG8O6mtvTEzSRNIXreYNqY3542XZR_mNnMAGG=w1035-h879-no"width="400"height="300"&gt;
+&lt;br&gt;
+&lt;span style="font-size:18px;"&gt;4. Onshape鏈條A之stl檔:&lt;a href="https://github.com/40323201/stl/blob/master/bg4%20chain%2040323201-A%20-%20chainA.stl"style="color:blue;"&gt;stl之A &lt;/font&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323201/stl/master/bg4%20chain%2040323201-A%20-%20chainA.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-size:18px;"&gt;心得:&lt;br&gt;
+從這次的主題課堂開始,老師就要我們開始畫2D的A~Z,但是也因為才一開始,大家友都相當茫然,不知從何做起,直到後半段學到了新的方法才開始動工.
+&lt;br&gt;
+一樣,一個團隊的合作相當重要,大家幫忙記課堂的重點,一起討論及詢問不清楚的步驟,才能有成功的報告呈現.&lt;/span&gt;
+&lt;br&gt;
+&lt;span style="font-size:24px;"&gt;本次作業自評:&lt;strong&gt;60分&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323201"></category></entry><entry><title>40323203-回報 bg4 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323203-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323203</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323203-hui-bao-bg4-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg4 組員 40323203已經在 cdw2 倉儲中的 master 分支建立對應的組員 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/taskbg4"&gt;bg4藍圖&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum3_task1.py 中的 scrum3_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category><category term="40323203"></category></entry><entry><title>40323203-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323203-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323203</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323203-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;&lt;font size="4"&gt;40323203-期中報告&lt;/font&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;font size="4"&gt;期中自評分數:60&lt;/font&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+協同繪圖: &lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/taskbg4"&gt;bg4藍圖&lt;/a&gt;
+&lt;/br&gt;
+個人繪圖: &lt;a href="http://bg4scrum3-40323203.rhcloud.com/bg4/scrum3_C"&gt;個人藍圖&lt;/a&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+圖為組員協同2D繪圖:
+&lt;/br&gt;
+&lt;img src="https://copy.com/iTcw0jpZzPvLtVH3"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+這一次字母繪圖是負責C(purple)
+&lt;/br&gt;
+圖為個人2D繪圖:
+&lt;/br&gt;
+&lt;img src="https://copy.com/wkfi4ocjBA1BGnWp"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+3D立體圖部分是在onshape上繪圖:
+&lt;/br&gt;
+&lt;img src="https://copy.com/wWIIW1fPcoBbMQZX"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+&lt;img src="https://copy.com/FOhBng1H74axu9od"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+圖為在onshape上輸出為stl檔的3D立體圖:
+&lt;/br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323203/cdw1/master/chain - 40323203C.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;font size="4"&gt;期中報告心得:&lt;/font&gt;
+&lt;/br&gt;
+這學期是協同課程，在做作業前先Fork組長→clone Fork後的班上網址→完成後按New pull request→等組長審核後就能夠回去班上，接下來是openshift的部分，這個部份我覺得很難去完成，後來問班上同學又瞭解了一些，最後還是完成了。&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category><category term="40323203"></category></entry></feed>

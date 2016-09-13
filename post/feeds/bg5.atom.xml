@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg5.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-06-13T10:00:07+08:00</updated><entry><title>40323253scrum5-回報 bg5 scrum5 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323255-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323255-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323255</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323255-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task1"></category></entry><entry><title>40323251-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323251-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323251</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323251-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task1"></category></entry><entry><title>40323253-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323253-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323253</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323253-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;完成的 OpenShift 對應繪圖連結為:&lt;a href="http://cdw2-40323253.rhcloud.com/bg5/scrum5_task40323253_2"&gt;40323253畫布_繪製字母A&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2&gt;master : &lt;/h2&gt;
+
+&lt;h3&gt;master是用來存取畫布及鍊條的檔案，並且將繪製好的檔案上傳到OpenShift，讓畫布及鍊條能夠在遠端上顯示，若要在近端的localhost:5000顯示的話，要在cdw2目錄下，使用python wsgi.py指令，方能在近端顯示程式所繪製出來的鏈條。&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2&gt;個人畫布 : &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="./../files/bg5/53_1.png"&gt;&lt;/p&gt;
+&lt;h2&gt;OpenShift : &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="./../files/bg5/53_2.png"&gt;&lt;/p&gt;
+&lt;h2&gt;計算表 : &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="./../files/bg5/53_4.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;gh-pages : &lt;/h2&gt;
+
+&lt;h3&gt;gh-pages是拿來編輯期中報告之用，在user的組別目錄下，新增個人的leo檔案，然後將.md檔放在content，紅框為檔案名稱，若沒改寫的話，在編輯時會同時編輯到另外一人，所以必須將其改寫，完成編輯後記得button，在近端下測試按下local-peliacn，若要推送到gh-pages分支時，就選按gh-pages-pelican，推送後顯示於&lt;a href="http://2015fallhw.github.io/cdw2/post/"&gt;cdw2首頁&lt;/a&gt;
+&lt;/br&gt;
+
+&lt;h2&gt;編輯期中報告 : &lt;/h2&gt;
+&lt;img src="./../files/bg5/53_3.png"&gt;
+
+&lt;h2&gt;期中心得 : &lt;/h2&gt;
+&lt;h3&gt;這學期我們開始協同課程，一上課老師就利用程式將我們分組，並利用GitHub的Fork來進行小組協同，各組員只需將做好的檔案Pull Request回去給組長審核即可。我們利用LEO編輯程式來畫圖，將圖檔以wsgi.py近端檢視，且上傳OpenShift將圖檔在遠端顯現出來，其中需要在OpenShift創建Pythone 3.3，利用鑰匙抓下來，再把圖檔貼上傳回遠端。在繪圖時必須先決定原點，再來要了解鍊條的尺寸，用三角函數計算其轉動角度，我認為最困難的並不是在繪製鍊條的部分，而是在協同觀念上，有種做完一步就卡關一步的感覺，總是有出不完的問題及衝突，希望這是我在未來能夠加以進步的地方。&lt;/h3&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323217-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323217-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323217</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323217-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323206-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323206</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323206-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg5-40323206.rhcloud.com/bg5/scrum2_task40323206"&gt;http://cdw2bg5-40323206.rhcloud.com/bg5/scrum2_task40323206&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在班級倉儲cdw2的master建立.leo進行英文字母的繪製(會自動產生一個.py)，建立好後可以在cmd輸入python wsgi.py的指令，就可以在近端開啟http://localhost:5000/bg組別/scrum第幾組員_task學號，可以檢視程式碼畫出的英文字母。
+&lt;br/&gt;
+我是以圓點開始畫，在依照字母排列的位置進行位移。&lt;/p&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;字母繪製程式說明：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;定義座標軸線&lt;br/&gt;
+cgo.drawAxes(0, 240, 0, 240)&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;軸線&amp;amp;數字顏色&lt;br/&gt;
+ "strokeColor":"顏色代碼"&lt;br/&gt;
+"fillColor": "顏色代碼"&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;◎可參閱色碼表
+&lt;a href="https://www.toodoo.com/db/color.html"&gt;https://www.toodoo.com/db/color.html&lt;/a&gt;
+&lt;br/&gt;
+TickInterval為LabelInterval內再分割時間間距&lt;br/&gt;
+LabelInterval為座標軸上每(多少)單位為一等分&lt;br/&gt;
+"xTickInterval": 20&lt;br/&gt;
+"xLabelInterval": 20&lt;br/&gt;
+"yTickInterval": 20&lt;br/&gt;
+"yLabelInterval": 20&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;旋轉必須要針對相對中心 rot not working yet&lt;br/&gt;
+chamber = &lt;br/&gt;
+"M -6.8397, -1.4894 \&lt;br/&gt;
+A 7, 7, 0, 1, 0, 6.8397, -1.4894 \&lt;br/&gt;
+A 40, 40, 0, 0, 1, 6.8397, -18.511 \&lt;br/&gt;
+A 7, 7, 0, 1, 0, -6.8397, -18.511 \&lt;br/&gt;
+A 40, 40, 0, 0, 1, -6.8397, -1.4894 z"&lt;br/&gt;
+A, (橢圓經中心X軸向長),  (橢圓經中心Y軸向長) , 0 , (大圓/小圓), (計算出的切點座標) , (計算出的切點座標)&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;◎計算公式：&lt;br/&gt;
+from sympy import&lt;br/&gt;
+§center ot radius 40&lt;br/&gt;
+x1 = Symbol('x1')&lt;br/&gt;
+y1 = Symbol('y1')&lt;br/&gt;
+§upper tangent point&lt;br/&gt;
+x2 = Symbol('x2')&lt;br/&gt;
+y2 = Symbol('y2')&lt;br/&gt;
+§lower tangent point&lt;br/&gt;
+x3 = Symbol('x3')&lt;br/&gt;
+y3 = Symbol('y3')&lt;br/&gt;
+answer = solve([(x2-0)&lt;strong&gt;2 + (y2-0)&lt;/strong&gt;2 - 7*7, (x1-x2)&lt;strong&gt;2+(y1-y2)&lt;/strong&gt;2 -40&lt;strong&gt;2, (x1-x3)&lt;/strong&gt;2+(y1-y3)&lt;strong&gt;2 -40&lt;/strong&gt;2, (x1)&lt;strong&gt;2+(y1)&lt;/strong&gt;2 -47&lt;strong&gt;2, \
+       (x1)&lt;/strong&gt;2+(y1+20)&lt;strong&gt;2 -47&lt;/strong&gt;2, x2 -x3], [x1, y1, x2, y2, x3, y3])&lt;br/&gt;
+group = 1&lt;br/&gt;
+for i in answer:&lt;br/&gt;
+    try:&lt;br/&gt;
+        g.es("group", group, ":")&lt;br/&gt;
+    except:&lt;br/&gt;
+        print("group", group, ":")&lt;br/&gt;
+    for j in i:&lt;br/&gt;
+        try:&lt;br/&gt;
+            g.es(j.evalf(5))&lt;br/&gt;
+        except:&lt;br/&gt;
+            print(j.evalf(5))&lt;br/&gt;
+    group += 1&lt;br/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;建立第一鍊條，會直接複製鍊條cmbr
+    basic1 = cmbr.dup()
+角度設定  &lt;br /&gt;
+    basic1.rotate(90)   →逆時針90°
+定位座標 &lt;br /&gt;
+    basic1.translate(x, y)&lt;/p&gt;
+&lt;p&gt;cmbr.appendPath(basic1)&lt;/p&gt;
+&lt;p&gt;&lt;hr/&gt;
+◎如何位移
+首先必須瞭解除了初始鍊條，其他鍊條都只是複製初始鍊條來的，所以所有鍊條一開始的設定都一樣。
+如果旋轉指令rotate不為0，表示有旋轉，是以座標原點再進行旋轉！
+換句話說，如果你的座標不是訂在原點，那轉動的位移會很大！
+那先在圓心完成字母後要怎麼移動？
+&lt;br/&gt;
+1.如果我們要將字母X位移160，先將初始鍊條X位移160&lt;br/&gt;
+  cmbr.translate(0, 0)→cmbr.translate(160, 0)
+&lt;br/&gt;&lt;br /&gt;
+2.這是第二鍊條原本的位置  &lt;br /&gt;
+    basic2 = cmbr.dup()&lt;br/&gt;
+    basic2.rotate(120)&lt;br/&gt;
+    basic2.translate(20&lt;em&gt;math.cos(150&lt;/em&gt;deg), 20&lt;em&gt;math.sin(150&lt;/em&gt;deg)) 
+&lt;br/&gt;     &lt;br /&gt;
+3.我們再定義完後先將鍊條移回原點再設定&lt;br/&gt;
+    basic2 = cmbr.dup()&lt;br/&gt;
+&lt;span style="font-size: 10pt; font-family: 'arial black', 'avant garde';"&gt;&lt;span style="color: #FF0000;"&gt;basic2.translate(-160, 0)&lt;/span&gt;&lt;br/&gt;
+    basic2.rotate(120)&lt;br/&gt;
+    basic2.translate(20&lt;em&gt;math.cos(150&lt;/em&gt;deg), 20&lt;em&gt;math.sin(150&lt;/em&gt;deg))&lt;br /&gt;
+&lt;br/&gt;&lt;br /&gt;
+4.最後再移到想要與初始鍊條對其的位置&lt;br/&gt;
+    basic2 = cmbr.dup()&lt;br/&gt;
+    basic2.translate(-160, 0)&lt;br/&gt;
+    basic2.rotate(120)&lt;br/&gt;
+    basic2.translate(20&lt;em&gt;math.cos(150&lt;/em&gt;deg), 20&lt;em&gt;math.sin(150&lt;/em&gt;deg)) &lt;br/&gt; 
+&lt;span style="font-size: 10pt; font-family: 'arial black', 'avant garde';"&gt;&lt;span style="color: #FF0000;"&gt;basic2.translate(160, 0)&lt;/span&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #660077;"&gt;以字母C作為範例&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg5/C.JPG"&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Openshift的對應建立&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;
+◎可參考課程網頁&lt;br /&gt;
+ &lt;a href="http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu.html"&gt;http://chiamingyen.github.io/kmolab/blog/ren-wu-yi-2d-xie-tong-hui-tu.html&lt;/a&gt;
+&lt;br /&gt;
+1.建立新的Application，並在Source Code輸入https://github.com/2015fallhw/cdw2.git &lt;br /&gt;
+&lt;img src="./../files/bg5/連結.JPG"&gt;
+&lt;br /&gt;
+2.建立鑰匙&lt;br /&gt;
+&lt;img src="./../files/bg5/KEY1.JPG"&gt;
+&lt;br /&gt;
+&lt;img src="./../files/bg5/KEY2.JPG"&gt;
+&lt;br /&gt;
+3.git clone 後修改除了.git以外的檔案&lt;br /&gt;
+4.建議直接複製github的master，操作較簡易，但無用檔案較多&lt;br /&gt;
+5.push完後點選openshift的連結(會出現猜數字)在網址後輸入你的畫布位置&amp;amp;名稱&lt;br /&gt;
+EX: /bg5/scrum2_task40323206&lt;/p&gt;
+&lt;p&gt;&lt;hr/&gt;
+&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;期中心得&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;
+這次的任務做了半個學期，其實了解鍊條排列的程式後做起來就會很輕鬆很有成就感，但重點我認為並不是英文字母，而是班級同學之間的協同。&lt;br /&gt;
+其實cmd裡面的指令不外乎就是：&lt;br /&gt;
+1.git clone&lt;br /&gt;
+2.git checkout master /gh-pages&lt;br /&gt;
+3.git add -A&lt;br /&gt;
+4.git commit -m ""&lt;br /&gt;
+5.git push origin gh-pages&lt;br /&gt;
+那還有甚麼困難？困難的地方就在第一步和最後一步，大家雖然是fork老師fork組長產生了cdw2的倉儲，表面上看起來好像是獨立的，可是並非如此！&lt;br /&gt;
+因為大家不了解協同的意義和運作方式，所以協同者(組長)才會這麼累，所以班級倉儲才會故障！老實說我覺得除了那些有心去了解，和維護倉儲的同學，其他人根本不知道"協同"的意義在哪？&lt;br /&gt;
+對他們而言，不過就是完成鍊條的英文字母罷了，所以我覺得這塊還有待加強，如果，你真的想知道這堂課的意義，你必須要：&lt;br /&gt;
+1.在乎你的組員(不要只顧自己好，要分享)&lt;br /&gt;
+2.了解你在組別裡的工作(大家要分工)&lt;br /&gt;
+3.尊重其他組別(可以互相參考資訊，但不要"偷竊")&lt;br /&gt;
+4.隨時注意整個環境的變動(記得改版更新)&lt;br /&gt;
+5.在乎這個班級(不要忘了倉儲是"年級"共用的，但我就不先說隔壁班了...)&lt;br /&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>40323204-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323204-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>40323204</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323204-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;自評成績:80分&lt;/h3&gt;
+
+&lt;h3&gt;目前所完成的 OpenShift 對應繪圖連結為:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://cdw2bg5w10-40323204sandy.rhcloud.com/bg5/scrum1_task40323204"&gt;http://cdw2bg5w10-40323204sandy.rhcloud.com/bg5/scrum1_task40323204&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;心得:&lt;/h3&gt;
+
+&lt;p&gt;在這次課程中我主要的工作是建出網頁供組員們使用，我們別中的組長和協同者是不一樣的人，所以在協同上多了一份麻煩，在繪圖上我覺得最困難的是合併，個人畫一個字母很簡單，但是要組員分散畫零件再組起來就很困難，在傳回給老師的途中會有衝突，要進行手動解衝突，看了老師給的解法我還是不太理解，現在們組只有各自畫出字母，還無法組起來。&lt;/p&gt;
+&lt;h3&gt;繪圖語法:&lt;/h3&gt;
+
+&lt;p&gt;basic1 = cmbr.dup() →叫出畫好的基本元件      &lt;/p&gt;
+&lt;p&gt;basic1.rotate(120) →旋轉120度&lt;/p&gt;
+&lt;p&gt;basic1.translate(0, -20) →原點位置&lt;/p&gt;
+&lt;p&gt;basic1.translate(20&lt;em&gt;math.cos(30&lt;/em&gt;deg), 20&lt;em&gt;math.sin(30&lt;/em&gt;deg)) →以三角函數來算原點&lt;/p&gt;
+&lt;p&gt;cmbr.appendPath(basic1) →最後要呼叫出自己寫的圖&lt;/p&gt;
+&lt;p&gt;cgo.render(cmbr, x, y, 3, rot) →表示放大 3 倍&lt;/p&gt;
+&lt;p&gt;O(0, 0, 0, 0, 0, "lightyellow", True, 4) →顏色為黃色&lt;/p&gt;
+&lt;h3&gt; A的3D圖STL檔&lt;/h3&gt;
+
+&lt;p&gt;&lt;script src="https://embed.github.com/view/3d/hsungchang/cdw2/blob/master/Chain%20-%20A.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category></entry><entry><title>40323217scrum3-回報 bg5 scrum3 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;ag100 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206scrum2-連結測試</title><link href="http://2015fallhw.github.io/cdw2/post/40323206scrum2-lian-jie-ce-shi.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/40323206scrum2-lian-jie-ce-shi.html</id><summary type="html">&lt;p&gt;bg5組員scrum2已連上組別&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum1-回報 bg5 scrum1 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-06-13T10:00:07+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-06-13:cdw2/post/scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+
+
+&lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category></entry></feed>
